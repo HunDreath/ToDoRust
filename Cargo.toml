@@ -5,3 +5,4 @@ edition = "2024"
 author = ['Hundreath']
 
 [dependencies]
+rand = "0.5.5"

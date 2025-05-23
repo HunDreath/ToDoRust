@@ -2,7 +2,8 @@
 name = "main_cargo"
 version = "0.1.0"
 edition = "2024"
-author = ['Hundreath']
+authors = ["Hundreath"]
+
 
 [dependencies]
 rand = "0.5.5"
